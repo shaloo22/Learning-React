@@ -1,13 +1,13 @@
-import FormInput from "./component/Form Handling/FormInput"
+import React from 'react'
+import Crud from './Day-2/Crud'
 
 
 const App = () => {
   return (
     <div>
-     <FormInput/>
+     <Crud/>
     </div>
   )
 }
 
 export default App
-

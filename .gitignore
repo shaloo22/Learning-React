@@ -12,13 +12,13 @@ dist
 dist-ssr
 *.local
 
-src/CardList/
+# src/CardList/
 src/Day-1/
-src/Sidebar/
-src/To-Do/
-src/componenets/
-src/useReduser/
-src/useRef/
+# src/Sidebar/
+# src/To-Do/
+# src/componenets/
+# src/useReduser/
+# src/useRef/
 
 # Editor directories and files
 .vscode/*
